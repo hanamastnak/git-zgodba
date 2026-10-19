@@ -1,0 +1,4 @@
+ Naprogramiraj nekaj
+ Nauči se git
+ V ta repozitorij dodaj vnos iz 12. 12. 2012
+ Izbriši ta 
